@@ -18,6 +18,14 @@
 	<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a> 
 	<img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+	
+	<img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white" />
+	<img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" />
+	<img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
+	
+	
+	
+	
 <h3 align="left">Support:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleberfmiguel&show_icons=true&locale=en&layout=compact" alt="cleberfmiguel"/></p>
